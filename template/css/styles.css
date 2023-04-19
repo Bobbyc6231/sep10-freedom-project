@@ -10832,10 +10832,17 @@ textarea.form-control-lg {
 }
 
 .hi {
-  font-size: 35px;
+  font-size: 30px;
   color: white;
+  font-family: 'Lilita One', cursive;
+  margin-top:-10px;
+  margin-bottom: -10px;
 }
 
 .die {
-  background-color: black;
+  background-color: grey;
+}
+
+.ok {
+  font-size: 25px;
 }
