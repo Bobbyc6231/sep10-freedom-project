@@ -10862,7 +10862,7 @@ textarea.form-control-lg {
 }
 
 .phone{
-  margin-top: 50px;
+  margin-top: 100px;
 }
 
 .k{
@@ -10870,5 +10870,9 @@ textarea.form-control-lg {
 }
 
 .phone1{
-  margin-top: 100px;
+  margin-top: 150px;
+}
+
+.air{
+  margin-bottom: 50px
 }
