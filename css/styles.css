@@ -10847,3 +10847,16 @@ textarea.form-control-lg {
   font-size: 25px;
 }
 
+.yes{
+  font-size 55px;
+  font-family: 'Chakra Petch', sans-serif;
+}
+
+.lie{
+  font-family: 'Konkhmer Sleokchher', cursive;
+
+}
+
+.worth{
+  margin-top: 25px;
+}
