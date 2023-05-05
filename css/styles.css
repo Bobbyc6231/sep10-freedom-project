@@ -10848,7 +10848,7 @@ textarea.form-control-lg {
 }
 
 .yes{
-  font-size 55px;
+  font-size 150px;
   font-family: 'Chakra Petch', sans-serif;
 }
 
@@ -10862,7 +10862,7 @@ textarea.form-control-lg {
 }
 
 .phone{
-  margin-top: 100px;
+  margin-top: 140px;
 }
 
 .k{
@@ -10870,9 +10870,19 @@ textarea.form-control-lg {
 }
 
 .phone1{
-  margin-top: 150px;
+  margin-top: 195px;
 }
 
 .air{
   margin-bottom: 50px
+}
+
+.table{
+  margin-left: 30px;
+}
+
+
+
+.head{
+  line-height:50px;
 }
