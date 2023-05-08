@@ -10886,3 +10886,7 @@ textarea.form-control-lg {
 .head{
   line-height:50px;
 }
+
+.card-body{
+  border-style: double;
+}
